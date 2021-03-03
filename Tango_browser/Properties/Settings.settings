@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Tango_Browser.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SetKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Google" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.google.com/search?q=</Value>
+    </Setting>
+    <Setting Name="Bing" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.bing.com/search?q=</Value>
+    </Setting>
+    <Setting Name="DuckDuckGo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.duckduckgo.com/search?q=</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
